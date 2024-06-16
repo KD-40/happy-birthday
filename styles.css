@@ -1,0 +1,52 @@
+
+body{
+  background-color: rgba(144, 238, 144, 0.711);
+  background-image: url(images/0a071c09-b7bd-45dd-85f0-fa859e11c192.jpg);
+  background-position: center top;
+  background-size: cover;
+  background-blend-mode: lighten;
+  margin-top: 20px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.greeting{
+  font-family: 'DM Serif Display', serif;
+}
+
+.first-line{
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: 800;
+}
+
+.main-wish{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: large;
+  font-family: 'Dancing Script', cursive;
+  margin-bottom: 20px;
+  font-weight: 800;
+}
+
+
+
+.paragraph-text{
+  font-size: 22px;
+}
+
+.video-link{
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.thoughts{
+  font-size: 22px;
+  text-align: left;
+}
+
+
